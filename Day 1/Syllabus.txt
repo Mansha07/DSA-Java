@@ -1,0 +1,28 @@
+--->Analysis of Algorithm
+
+--->Basic Data Structures:
+1. Arrays 
+2. Recursion
+3. Hashing 
+4. Strings
+5. Searching
+6. Sorting 
+7. Linked List 
+8. Stack 
+9. Queues 
+10. Trees 
+11. Binary Search tree 
+12. Heap 
+
+--->Advanced Data Structures 
+1. Mathematics
+2. Strings 
+3. Hashing
+4. Linked List 
+5. Stack 
+6. Arrays
+7. Graph
+8. Tree
+9. Greedy Algorithm(Important)
+10. Back-Tracking(Important)
+11. Dynamic Programming(Important)

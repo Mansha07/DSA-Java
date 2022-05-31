@@ -1,0 +1,5 @@
+Data Structures and Algorithms 
+
+Data Structures and algorithm is one of the most crucial subject in the placement session.
+You may begin your journey in any of your proprietary language whether it be C or C++ or python or Java.
+This Repository contains the whole Syllabus in Java.
