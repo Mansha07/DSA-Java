@@ -1,5 +1,5 @@
-Data structures can be usually implementes in any programming language of your choice
-But I have decided to implement in Java 
+Data structures can be usually implemented in any programming language of your choice
+And this repository contains in JAVA 
 
 Following are the notable features of Java:
 
