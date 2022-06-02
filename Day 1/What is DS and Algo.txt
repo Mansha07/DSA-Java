@@ -5,3 +5,6 @@ in a computer so that it can be used effectively.
 What is algorithm
 :A set of instructions which should be followed to solve a 
 a problem and accomplish a task. 
+
+
+:)

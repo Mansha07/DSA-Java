@@ -1,0 +1,50 @@
+--->Analysis of algorithms
+It is the most important step before we begin our data
+structures and algorithms journey.
+
+--->Why we need it???
+
+As we know that there can be multiple solutions to a
+problem by either using different programming techniques 
+or by using different data structures.
+
+So, how to decide which one is better, here analysis
+of algorithm comes into play 
+
+
+Example: We have to find sum of natural numbers
+
+Soln 1:  /// simple Formula(Recursion)
+
+int fun1(int n)
+{
+return n*(n-1);
+}
+
+Soln 2: /// Loop logic
+
+int fun1(int n)
+{
+int c=0;
+for(int i=1;i<=n;i++)
+{
+  c=c+i;
+}
+return c;
+}
+
+Now all these give correct output.
+
+Like here we got many solutions for a single problem 
+And we have to select one of the best solution for the problem 
+
+
+So we will find the time taken 
+which may depend on many factors like machine,
+programming language,system load
+
+
+To find out which one is more efficient or ethically suitable to us 
+we will be using asymptotic analysis.
+
+:)
